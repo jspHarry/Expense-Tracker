@@ -109,11 +109,6 @@ Open `frontend/index.html` in your browser.
 
 ---
 
-## 📸 Screenshots (Optional)
-_Add a couple of UI screenshots here if you want._
-
----
-
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
